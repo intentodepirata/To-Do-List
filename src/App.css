@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.mundo{
+  font-size: 22px;
+  border: 2px solid white;
+  padding: 16px 32px;
+  border-radius: 16px;
+}
